@@ -15,7 +15,7 @@
 - ☁️ Certified **AWS Developer Associate**, **Spring Microservices Professional**, and **Java Programmer**.
 - 🏗️ Passionate about clean code, Event-Driven Architecture, OWASP security, and AI-assisted development.
 - 🚀 Solved 400+ DSA problems across LeetCode, Codeforces, and GeeksforGeeks.
-- 📫 How to reach me: **[Add your LinkedIn URL here]** | **elavenkat007@gmail.com**
+- 📫 How to reach me: **www.linkedin.com/in/elavarasanvengatachalam** | **elavenkat007@gmail.com**
 
 ---
 
